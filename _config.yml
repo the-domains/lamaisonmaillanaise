@@ -1,0 +1,14 @@
+layout_spectrum: 0.3082437
+typography_spectrum: 0.811569
+color:
+  saturation: 0.5609319
+  lightness: 1
+  brandStrength: 0.4982079
+  brandColors:
+    - '#69A3F7'
+    - '#080C0B'
+    - '#FFFFFF'
+    - '#486030'
+    - '#839A4D'
+  rhythmicContrast: 0.05017921
+name: LaMaisonMaillanaise
