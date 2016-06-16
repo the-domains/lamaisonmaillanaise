@@ -1,14 +1,28 @@
+name: LaMaisonMaillanaise
+favicon: null
 layout_spectrum: 0.3082437
 typography_spectrum: 0.3853047
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5322581
-  lightness: 0.8566308
-  brandStrength: 0.9802867
   brandColors:
     - '#1C231B'
     - '#80ADEE'
     - '#4E563D'
     - '#87925A'
     - '#FFFDF1'
+  brandStrength: 0.625
+  lightness: 0.8566308
+  saturation: 0.5322581
   rhythmicContrast: 0.03942652
-name: LaMaisonMaillanaise
+purpose: []
